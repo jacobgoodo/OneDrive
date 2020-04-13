@@ -23,7 +23,7 @@ UPDATE:
 
 # Install
 ```
-wget --no-check-certificate -qO- "https://raw.githubusercontent.com/jacobgoodo/OneDrive/master/OneDrive.sh" |bash
+sudo wget --no-check-certificate -qO- "https://raw.githubusercontent.com/jacobgoodo/OneDrive/master/OneDrive.sh" |bash
 
 ```
 # Authorize

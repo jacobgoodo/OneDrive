@@ -1,23 +1,29 @@
 # [OneDrive for Business on Bash]
 
 -------------------------------------------------------------------------
-详细说明：         
+详细说明：     *Detailed Description*    
 https://moeclub.org/2017/07/07/304/       
 
 -------------------------------------------------------------------------
 特性:      
 1.支持文件夹上传.      
 2.支持获取文件的匿名直链.     
-3.纯shell支持.      
+3.纯shell支持.   Google translated: who cares about grammar
+
+*Features:
+1. Support folder upload.
+2. Supports anonymous straight chain access to files.
+3. Pure shell support.*
 
 -------------------------------------------------------------------------
 UPDATE:
 默认添加应用密钥; 开箱即用.
+*App key is added by default; out of the box.*
 -------------------------------------------------------------------------
 
 # Install
 ```
-wget --no-check-certificate -qO- "https://raw.githubusercontent.com/0oVicero0/OneDrive/master/OneDrive.sh" |bash
+wget --no-check-certificate -qO- "https://raw.githubusercontent.com/jacobgoodo/OneDrive/master/OneDrive.sh" |bash
 
 ```
 # Authorize
